@@ -30,7 +30,8 @@
    ```
 ---
 ## 📷 Screenshot
-> <video controls src="screenshot.mp4" title="Title"></video>
+> ![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.png)
 ---
 ## 🏗 Future Enhancements
 - Deep Learning-based summarization (BERT, GPT)
