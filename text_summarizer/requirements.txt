@@ -1,0 +1,7 @@
+nltk
+scikit-learn
+requests
+beautifulsoup4
+PyPDF2
+numpy
+
